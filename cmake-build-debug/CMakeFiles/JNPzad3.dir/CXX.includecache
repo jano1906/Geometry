@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jan-dev/cpp/CLionProjects/JNPzad3/geometry.cc
+cassert
+-
+geometry.h
+/home/jan-dev/cpp/CLionProjects/JNPzad3/geometry.h
+cstdio
+-
+iostream
+-
+
+/home/jan-dev/cpp/CLionProjects/JNPzad3/geometry.h
+cstdint
+-
+vector
+-
+
